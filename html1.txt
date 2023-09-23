@@ -1,0 +1,12 @@
+## getElement and document.getElement
+
+<body style="font-family: system-ui;background: #f06d06; color:white; text-align:center;">
+worked 
+<button id="hh" onclick="getElementById('hh').style.color = 'red'">111</button>
+didn't work 
+<h1> hihi </h1>
+<button onclick="getElementsByTagName('h1')[0].style.fontSize = '50px'">222</button>
+worked
+<button onclick="document.getElementsByTagName('h1')[0].style.fontSize = '10px'">333</button>
+  
+ </body>
