@@ -1,0 +1,27 @@
+.aa p {
+
+.aa div {
+h1 p{
+div p{
+div.aa{
+
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+
+font-size: 42px;
+text-decoration:
+background:
+resize:none;
+
+
+repeat()
+cursor:pointer;
+font-weight:bold;
+
+grid-template-columns: repeat(4,65px);
+grid-auto-rows: 63px;
+grid-gap: 5px;
+
